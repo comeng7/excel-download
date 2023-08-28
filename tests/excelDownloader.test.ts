@@ -1,4 +1,5 @@
 import ExcelDownloader from '../src/ExcelDownloader';
+import { TExcelRow } from '../src/ExcelDownloader';
 
 describe('ExcelDownloader', () => {
   let excel: ExcelDownloader;
