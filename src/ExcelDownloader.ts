@@ -1,4 +1,4 @@
-type TExcelRow = {
+export type TExcelRow = {
   [key: string]: string | number;
 };
 
